@@ -1,4 +1,5 @@
-#Serwer Do Bubity Hub
+# Serwer Do Bubity Hub
 
-
-Robi to co ma robić
+              
+## Co to robi?
+Nic nie robi, lol
